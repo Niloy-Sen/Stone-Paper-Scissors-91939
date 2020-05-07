@@ -21,7 +21,7 @@ Code Editor: :atom:
 
 ~ `Js + CSS + HTML-5`
 
-##Style
+## Style
 
 ### Neutral
 
