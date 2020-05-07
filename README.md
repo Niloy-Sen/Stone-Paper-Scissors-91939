@@ -9,7 +9,7 @@ If the player wins, they gain 5 points. If the computer wins, the player loses 1
 - Rock beats Scissors
 - Scissors beats Paper
 
-Feel free to `fork` and point out issues with the code base.
+Feel free to `fork` and point out issues in the code base.
 
 Future Additions : :sparkles:
 - Rules Button addition 
