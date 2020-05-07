@@ -18,7 +18,7 @@ Future Additions : :sparkles:
 - Possible Android App (Maybe) :sweat_smile:
 
 Code Editor: :atom:
-Js + CSS + HTML-5
+~ `Js + CSS + HTML-5`
 
 ### Neutral
 
