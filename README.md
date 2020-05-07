@@ -25,13 +25,13 @@ Code Editor: :atom:
 ## Style
 
 ### Gradient Border for the Icons
-- Paper
+- Paper : 
   ` background: linear-gradient(to bottom, #007AFF, #007AF7); `
 
-- Scissors 
+- Scissors : 
   ` background: linear-gradient(to right top, #FF416C, #FF4B2B); `
 
-- Rock
+- Rock : 
   ` background: linear-gradient(to right top, #A8EB12, #38ef7d); `
 
 ### Neutral
