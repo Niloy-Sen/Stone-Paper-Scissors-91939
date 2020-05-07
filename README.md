@@ -13,6 +13,7 @@ Feel free to `fork` and point out issues in the code base.
 
 Future Additions : :sparkles:
 - Rules Button addition 
+- Advanced Level for the Game : Rock-Paper-Scissors-Lizard-Spock
 - Other Functionalities (Real time Multiplayer Options)
 - Login System + New UI
 - Possible Android App (Maybe) :sweat_smile:
@@ -33,7 +34,9 @@ Code Editor: :atom:
 
 - Radial Gradient: hsl(214, 47%, 23%) to hsl(237, 49%, 15%)
 
-## Fonts
+### Fonts
 
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 600, 700
+
+A Special thanks to https://www.frontendmentor.io/ for the Challenge
