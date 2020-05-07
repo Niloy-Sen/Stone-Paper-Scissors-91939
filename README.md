@@ -24,6 +24,16 @@ Code Editor: :atom:
 
 ## Style
 
+### Gradient Border for the Icons
+- Paper
+  ` background: linear-gradient(to bottom, #007AFF, #007AF7); `
+
+- Scissors 
+  ` background: linear-gradient(to right top, #FF416C, #FF4B2B); `
+
+- Rock
+  ` background: linear-gradient(to right top, #A8EB12, #38ef7d); `
+
 ### Neutral
 
 - Dark Text: hsl(229, 25%, 31%)
