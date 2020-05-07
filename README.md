@@ -49,4 +49,4 @@ Code Editor: :atom:
 - Family: [Barlow Semi Condensed](https://fonts.google.com/specimen/Barlow+Semi+Condensed)
 - Weights: 600, 700
 
-A Special thanks to https://www.frontendmentor.io/ for the Challenge
+A Special thanks to https://www.frontendmentor.io/  and `Florin Pop's Youtube Channel` for the Challenge.
