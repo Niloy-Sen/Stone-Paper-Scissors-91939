@@ -1,5 +1,9 @@
 # Stone-Paper-Scissors :tada: 
-Stone Paper Scissors Game using JavaScript and HTML, CSS
+Stone Paper Scissors Game using JavaScript and HTML, CSS.
+
+## Update 2.0 :
+
+8th May 2020 : Neumorphed Version of the game Published at : https://subhrajit91939.github.io/Neumorphed-Rock-Paper-Scissors/
 
 ### Rules
 
